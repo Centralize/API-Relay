@@ -6,8 +6,8 @@
   ./relay.sh [port]
 
 #### Environment configuration:
-  RELAY_PORT           Listen port                       (default 8080)
-  RELAY_BIND           Bind address                      (default 127.0.0.1)
+  RELAY_PORT           Listen port                       (default 8080) <br />
+  RELAY_BIND           Bind address                      (default 127.0.0.1) <br />
   RELAY_MAX_CLIENTS    Max simultaneous connections      (default 100)
   RELAY_TIMEOUT        Max seconds per upstream call     (default 60)
   RELAY_MAX_BODY       Max request body size in bytes    (default 10 MiB)
