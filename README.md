@@ -1,4 +1,4 @@
-# relay.sh - Concurrent HTTP API relay written in bash.
+# Concurrent HTTP API relay
 
 #### Requirements: bash 4+, socat, curl, awk, coreutils (mktemp, head, wc, timeout)
 
